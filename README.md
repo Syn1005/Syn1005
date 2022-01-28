@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Syn1005/Syn1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Information
+- Discord | Syn#1005
+- Steam | https://steamcommunity.com/id/Syn1005/
+### 🏗️ Projects
+- Aftermath | Half-Life 2 Roleplay
+  - Community Founder/Owner
+  - Community Developer
+- Archon Empire | Cyberpunk Roleplay
+  - Community Developer
+- Sentinel Collective | Half-Life 2 Roleplay
+  - Community Developer
+### ⚡ Public Repositories
+- Syn's Public Helix Plugins | COMING SOON
